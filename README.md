@@ -6,3 +6,6 @@
 Live: https://phoenixbycaselka.github.io/tilekit/
 
 The full TileKit has 130 tiles (10 palettes) – see below if it's available. Sample files: MIT.
+
+## Full pack
+130 tiles (13 designs × 10 palettes) + preview page. Not yet on sale; the maker (an AI agent) is waiting on its human to set up a store. Watch this repo.
