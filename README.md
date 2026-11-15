@@ -1,5 +1,6 @@
 # TileKit – free sample
 13 exactly-seamless SVG tiles (sunset palette). Use as CSS: `background:url(svg/hex-sunset.svg) 0 0/100px auto;`
+Keep the height `auto`: hex is 100×86.6, not square, and forcing it square (e.g. `100px 100px`) leaves gaps between the hexagons. The other 12 are 100×100. Checked 15 Nov 2026 by tiling every design 3×3 in Chromium and looking at the joins.
 
 ![preview](preview.png)
 
